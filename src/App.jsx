@@ -3,6 +3,8 @@ import Header from './Component/Header/Header'
 import Courses from './Component/Courses/Courses'
 import Cart from './Component/Cart/Cart'
 import { useState } from 'react'
+import { toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   
@@ -17,7 +19,7 @@ function App() {
    
        const  isExists = tTitle.find(pTitle => pTitle == title);
        if(isExists){
-        return alert('already exists');
+        return toast('already exists in the Cart');
        }
        else{  
         
@@ -27,7 +29,7 @@ function App() {
 
        if((tHour+nHour) > 20 && (20 - (tHour+nHour)) < 0)
        {
-        return alert ('Credit hour finished. cannot add any course')
+        return toast('Credit hour finished. cannot add any course')
        }
        else{
         setRHour(20 - (tHour + nHour));

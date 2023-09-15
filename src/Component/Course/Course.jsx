@@ -1,4 +1,6 @@
  import PropTypes from 'prop-types'
+ import { ToastContainer } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
 const Course = ({course, handleSelect}) => {
 
@@ -17,6 +19,7 @@ const Course = ({course, handleSelect}) => {
                 <p className='text-[#1C1B1B99] text-sm font-medium'>Credit: <span>{course.credit}</span> hr </p>
             </div>
             <button onClick={()=>handleSelect(course.credit, course.price, course.title)} className='text-white w-full bg-[#2F80ED] rounded-xl h-8'>Select</button>
+            <ToastContainer/>
         </div>
     );
 };
