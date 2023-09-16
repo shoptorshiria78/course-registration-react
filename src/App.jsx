@@ -48,14 +48,18 @@ function App() {
     <>
       <div className="w-11/12 mx-auto ">
       <Header></Header>
-      <div className=" grid grid-cols-4">
+      <div className=" grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4">
       <Courses handleSelect={handleSelect}></Courses>
+      
+      <div>
       <Cart
       tPrice={tPrice}
       tHour={tHour}
       tTitle={tTitle}
       rHour={rHour}
       ></Cart>
+      </div>
+      
       </div >
       </div>
       

@@ -14,7 +14,7 @@ const Courses = ({handleSelect}) => {
     },[])
 
     return (
-        <div className="grid col-span-3 grid-cols-3 my-10 gap-3">
+        <div className="grid col-span-1 md:col-span-2 lg:col-span-3 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 my-10 gap-3">
             {
                 courses.map(course => <Course
                      key={course.id} 
