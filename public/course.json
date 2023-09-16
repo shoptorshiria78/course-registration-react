@@ -3,7 +3,7 @@
       "id": 1,
       "img": "https://i.ibb.co/fN41z7D/Rectangle-2-2.png",
       "title": "Introduction to C Programming",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "C programming language created by Dennis Ritchie at the Bell Laboratories in 1972. Historically, the C programming language provides faster processing, as it is a low-level code and a compiled language that doesn't need interpretation.",
       "price": 15000,
       "credit": 1
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "img": "https://i.ibb.co/RNbhtd9/Rectangle-2-3.png",
       "title": "Introduction to Algorithms",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "An algorithm is a step-wise representation of a solution to a given problem. In an Algorithm the problem is broken down into smaller pieces or steps hence, it is easier for the programmer to convert it into an actual program.",
       "price": 25000,
       "credit": 2
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "img": "https://i.ibb.co/3kn6N32/Rectangle-2-4.png",
       "title": "Introduction to C++ for DSA",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "Key concepts of C++ DSA include Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs. Common Algorithms in C++ DSA include Sorting, Searching, Graph, and Dynamic Programming Algorithms. C++ DSA has various applications.",
       "price": 10000,
       "credit": 10
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "img": "https://i.ibb.co/KmWWrjX/Rectangle-3.png",
       "title": "Basic Data Structures",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Array is also one kind of the basic data structure.",
       "price": 35000,
       "credit": 5
     },
@@ -35,7 +35,7 @@
       "id": 5,
       "img": "https://i.ibb.co/wd8jpq1/Rectangle-2.png",
       "title": "Introduction to OOP Python",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.",
       "price": 19000,
       "credit": 5
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "img": "https://i.ibb.co/F4pgfML/Rectangle-2-5.png",
       "title": "Software Engineering",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.",
       "price": 23000,
       "credit": 2
     },
@@ -51,7 +51,7 @@
       "id": 7,
       "img": "https://i.ibb.co/hfy4Nqx/Rectangle-3-1.png",
       "title": "AWS, Cloud Computing",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "AWS is a product of Amazon .The AWS Cloud encompasses a broad set of global cloud-based products that includes compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications: on-demand, available in seconds, with pay-as-you-go pricing.",
       "price": 35000,
       "credit": 5
     },
@@ -59,7 +59,7 @@
       "id": 8,
       "img": "https://i.ibb.co/Ld5L9RC/Rectangle-2-1.png",
       "title": "Database (MySQL)",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "MySQL is a popular, time-tested, but also modern and fully-featured relational database management software. Businesses everywhere use it for mission-critical enterprise data storage, processing, as a backend to major customer-facing applications, and as part of powerful, established web software stacks.",
       "price": 19000,
       "credit": 5
     },
@@ -67,7 +67,7 @@
       "id": 9,
       "img": "https://i.ibb.co/TBNN5RB/Rectangle-2-6.png",
       "title": "Problem-Solving Part",
-      "description": "It is a long established fact that a reader will be distracted    by the readable content of a page when looking at its layout.",
+      "description": "A problem-solution paragraph has three main parts. The topic sentence introduces the solution to a problem. The body sentences explain the problem and solution. The ending sentence calls readers to action.we must first understand the problem, then we think of strategies that might help solve the problem.",
       "price": 23000,
       "credit": 2
     }
